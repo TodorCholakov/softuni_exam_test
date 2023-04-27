@@ -18,8 +18,6 @@
 							echo ('<img src="https://i.imgur.com/ZbILm3F.png" alt="false image">');
 						}
 ?>
-
-						
 					</div>
 				</div>
 			</li>
